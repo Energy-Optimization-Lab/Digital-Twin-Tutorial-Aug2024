@@ -3,20 +3,20 @@ As presented at ICDCM by Dr. Kristen (Garcia) Booth, Dr. Kerry Sado, and Jarrett
 
 ## Contributors:
 
-Kristen Booth, PhD
-Assistant Professor
-Electrical Engineering
-Email: kristen.booth@sc.edu
-GitHub: @github username
+Kristen Booth, PhD\
+Assistant Professor\
+Electrical Engineering\
+Email: kristen.booth@sc.edu\
+GitHub: @github username\
 
-Kerry Sado, PhD
-Senior Research Associate
-Electrical Engineering
-Email: ksado@email.sc.edu
-GitHub: KerrySado
+Kerry Sado, PhD\
+Senior Research Associate\
+Electrical Engineering\
+Email: ksado@email.sc.edu\
+GitHub: KerrySado\
 
-Jarrett Peskar
-PhD Candidate
-Mechanical Engineering
-Email: jpeskar@email.sc.edu
-GitHub: jpeskar1
+Jarrett Peskar\
+PhD Candidate\
+Mechanical Engineering\
+Email: jpeskar@email.sc.edu\
+GitHub: jpeskar1\
