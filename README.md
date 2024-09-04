@@ -7,16 +7,16 @@ Kristen Booth, PhD\
 Assistant Professor\
 Electrical Engineering\
 Email: kristen.booth@sc.edu\
-GitHub: @github username\
+GitHub: @github username
 
 Kerry Sado, PhD\
 Senior Research Associate\
 Electrical Engineering\
 Email: ksado@email.sc.edu\
-GitHub: KerrySado\
+GitHub: KerrySado
 
 Jarrett Peskar\
 PhD Candidate\
 Mechanical Engineering\
 Email: jpeskar@email.sc.edu\
-GitHub: jpeskar1\
+GitHub: jpeskar1
