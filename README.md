@@ -6,17 +6,17 @@ As presented at ICDCM by Dr. Kristen (Garcia) Booth, Dr. Kerry Sado, and Jarrett
 Kristen Booth, PhD
 Assistant Professor
 Electrical Engineering
-kristen.booth@sc.edu
-@github username
+Email: kristen.booth@sc.edu
+GitHub: @github username
 
 Kerry Sado, PhD
 Senior Research Associate
 Electrical Engineering
-ksado@email.sc.edu
-@KerrySado
+Email: ksado@email.sc.edu
+GitHub: KerrySado
 
 Jarrett Peskar
 PhD Candidate
 Mechanical Engineering
-jpeskar@email.sc.edu
-@github username
+Email: jpeskar@email.sc.edu
+GitHub: jpeskar1
