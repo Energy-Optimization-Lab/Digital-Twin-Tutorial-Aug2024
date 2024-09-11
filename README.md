@@ -6,8 +6,7 @@ As presented at ICDCM by Dr. Kristen (Garcia) Booth, Dr. Kerry Sado, and Jarrett
 Kristen Booth, PhD\
 Assistant Professor\
 Electrical Engineering\
-Email: kristen.booth@sc.edu\
-GitHub: @github username
+Email: kristen.booth@sc.edu
 
 Kerry Sado, PhD\
 Senior Research Associate\
